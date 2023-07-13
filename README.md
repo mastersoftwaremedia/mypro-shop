@@ -61,4 +61,4 @@ EMAIL=
 npm start
 ```
 
-If you have any questions about the project, feel free to email me @ fortestingpurpose06@gmail.com
+If you have any questions about the project, feel free to email me @ codingdevpin@gmail.com
