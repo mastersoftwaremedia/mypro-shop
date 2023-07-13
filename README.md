@@ -62,6 +62,7 @@ npm start
 ```
 
 Login with existing ID and password: john@gmail.com / 123456
+```
 Register if you want to login as an admin
 
 If you have any questions about the project, feel free to email me @ codingdevpin@gmail.com
